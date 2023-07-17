@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.banner {
+  display: flex;
+  align-items: center;
+  background: rgba(229, 84, 115, 0.1);
+  padding-left: 150px;
+  padding-right: 200px;
+  height: 100vh;
+  gap: 70px;
+ padding-bottom: 100px;
+}
+.banner-title {
+  /* width: 550px; */
+  color: #272727;
+  font-size: 60px;
+  margin-top: 80px;
+}
+.banner-flower {
+  width: 500px;
+}
+.banner-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.banner h1,
+p {
+  margin-bottom: 32px;
+}
+.btn-primary {
+  border-radius: 8px;
+  background: #e55473;
+  padding: 20px 43px;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 140px;
+}
