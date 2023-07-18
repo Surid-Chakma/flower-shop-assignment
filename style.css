@@ -156,3 +156,27 @@ p {
 .off-style {
   color: #E55473;
 }
+/* instagram section  */
+.instagram-section {
+  margin-bottom: 130px;
+}
+.instagram-container {
+  text-align: center;
+}
+.instagram-flowers {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+.instagram-flower {
+  width: 270px;
+}
+.instagram-title {
+  margin-bottom: 24px;
+  margin-top: 130px;
+}
+.instagram-description {
+  width: 600px;
+  margin: auto;
+  padding-bottom: 40px;
+}
