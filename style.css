@@ -134,3 +134,25 @@ p {
 .feature-icon {
   margin-bottom: 24px;
 }
+/* Discount section  */
+.discount-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-top: 100px;
+}
+.discount-container {
+  text-align: center;
+  margin-top: 240px;
+}
+.discount-description {
+  width: 600px;
+  margin: auto;
+  padding-top: 24px;
+  padding-bottom: 32px;
+}
+.off-style {
+  color: #E55473;
+}
