@@ -54,7 +54,6 @@ p {
 }
 .flower-section-container {
   text-align: center;
-  
 }
 .flower-section-title {
   margin-bottom: 20px;
@@ -86,7 +85,6 @@ p {
   width: 430px;
   height: 500px;
   padding: 20px;
-
 }
 .flower-container-3 {
   border-radius: 300px 300px 0px 0px;
@@ -94,16 +92,15 @@ p {
   width: 430px;
   height: 500px;
   padding: 20px;
-
 }
 .caption-container {
   display: flex;
   justify-content: space-evenly;
   text-align: center;
 }
-.flower-1{
- margin-top: 72px;
- margin-bottom: 15px;
+.flower-1 {
+  margin-top: 72px;
+  margin-bottom: 15px;
 }
 .flower-2 {
   margin-top: 100px;
@@ -111,13 +108,29 @@ p {
 }
 .flower-3 {
   margin-top: 29px;
- margin-bottom: 15px ;
-
+  margin-bottom: 15px;
 }
 .caption {
   color: #272727;
-text-align: center;
-font-size: 20px;
-font-weight: 700;
-line-height: 35px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 35px;
+}
+/* shop features section  */
+
+.shop-features {
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-radius: 8px;
+  background: rgba(39, 39, 39, 0.05);
+  text-align: center;
+  padding-top: 85px;
+  padding-bottom: 85px;
+  margin-top: 200px;
+}
+.feature-icon {
+  margin-bottom: 24px;
 }
