@@ -157,9 +157,6 @@ p {
   color: #E55473;
 }
 /* instagram section  */
-.instagram-section {
-  margin-bottom: 130px;
-}
 .instagram-container {
   text-align: center;
 }
@@ -179,4 +176,43 @@ p {
   width: 600px;
   margin: auto;
   padding-bottom: 40px;
+}
+/* subscribe section  */
+.subscribe-section {
+  background-image: url("./flower-photos/Rectangle\ 9.png");
+  background-size: cover;
+  margin: 130px 100px;
+  text-align: center;
+}
+.subscribe-container {
+  padding-top: 120px;
+  /* padding-bottom: 80px; */
+}
+.email {
+  width: 40%;
+  padding-top: 25px;
+  padding-bottom: 24px;
+  padding-left: 20px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 16px;
+}
+.subscribe-title {
+  margin-bottom: 16px;
+}
+.contact-us-section{
+  text-align: center;
+  background: rgba(158, 81, 98, 0.2);
+  padding: 50px;
+  /* width: 70%;
+  margin: auto; */
+  color: black;
+  /* border-radius: 8px; */
+}
+.details-style{
+  color: rgb(102, 166, 7);
+}
+.contact-us {
+  font-size: 40px;
+  padding-bottom:20px ;
 }
