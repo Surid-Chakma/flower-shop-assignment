@@ -47,6 +47,7 @@ p {
   margin-bottom: 140px;
 }
 /* featured flower section  */
+
 .flower-section {
   margin-top: 170px;
   margin-bottom: 130px;
@@ -135,6 +136,7 @@ p {
   margin-bottom: 24px;
 }
 /* Discount section  */
+
 .discount-section {
   display: flex;
   align-items: center;
@@ -157,6 +159,7 @@ p {
   color: #E55473;
 }
 /* instagram section  */
+
 .instagram-container {
   text-align: center;
 }
@@ -178,6 +181,7 @@ p {
   padding-bottom: 40px;
 }
 /* subscribe section  */
+
 .subscribe-section {
   background-image: url("./flower-photos/Rectangle\ 9.png");
   background-size: cover;
@@ -186,7 +190,6 @@ p {
 }
 .subscribe-container {
   padding-top: 120px;
-  /* padding-bottom: 80px; */
 }
 .email {
   width: 40%;
@@ -200,14 +203,14 @@ p {
 .subscribe-title {
   margin-bottom: 16px;
 }
+/* contact us section  */
+
 .contact-us-section{
   text-align: center;
-  background: rgba(158, 81, 98, 0.2);
-  padding: 50px;
-  /* width: 70%;
-  margin: auto; */
+  background: rgba(158, 81, 98, 0.1);
+  padding: 100px;
+  margin: auto;
   color: black;
-  /* border-radius: 8px; */
 }
 .details-style{
   color: rgb(102, 166, 7);
@@ -215,4 +218,28 @@ p {
 .contact-us {
   font-size: 40px;
   padding-bottom:20px ;
+}
+.footer-container {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 130px;
+  padding-bottom: 130px;
+  margin-top: 100px;
+}
+.footer-title {
+  margin-bottom: 24px;
+  font-size: 45px;
+}
+.flower-style {
+  color: #E55473;
+}
+.footer-description {
+  width: 40%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+.copyright {
+  color: rgba(255, 255, 255, 0.40);
+  font-size: 16px;
 }
